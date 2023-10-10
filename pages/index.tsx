@@ -6,7 +6,7 @@ import ExtraInformation from "@/components/ExtraInformation";
 import { EducationItem } from "@/components/EducationItem";
 import Portafolio from "@/components/Portafolio";
 import React from "react";
-import Dialogtop from "@/components/dialogtop";
+import Dialogtop from "@/components/Dialogtop";
 
 const Index=() =>{
   const [open, setOpen] = React.useState(false);
